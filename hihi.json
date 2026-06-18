@@ -2,20 +2,20 @@
   "name": "Long's IpA++",
   "subtitle": "Kho tải ứng dụng IPA cho SideStore",
   "description": "Repo cập nhật các ứng dụng iOS ++ mới nhất.",
-  "iconURL": "https://raw.githubusercontent.com/longkool/Long-s-IpA-/9efa7211f408993cf6302af6a6f9bd5b5cb916a3/wolf-icon.png",
-  "website": "https://<username>.github.io/<tên-repo>/",
+  "iconURL": "https://longkool.github.io/Long-s-IpA-/wolf-icon.png",
+  "website": "https://longkool.github.io/Long-s-IpA-/",
   "apps": [
     {
-      "name": "Tên Ứng Dụng 1",
-      "bundleIdentifier": "com.developer.appone",
-      "developerName": "Tên Nhà Phát Triển",
-      "version": "1.0.0",
+      "name": "Youtube+",
+      "bundleIdentifier": "com.google.ios.youtube+",
+      "developerName": "Google",
+      "version": "21.24.3",
       "versionDate": "2026-03-30",
-      "versionDescription": "Bản cập nhật đầu tiên, mở khóa tính năng Premium.",
-      "downloadURL": "https://<đường-dẫn-tải-file-ipa-trực-tiếp>.ipa",
-      "localizedDescription": "Mô tả chi tiết về ứng dụng này bằng tiếng Việt để người dùng đọc trước khi cài đặt.",
-      "iconURL": "https://<username>.github.io/<tên-repo>/icon-app1.png",
-      "size": 45000000
+      "versionDescription": "mở khóa tính năng Premium.",
+      "downloadURL": "https://files.catbox.moe/9elqcs.ipa",
+      "localizedDescription": "hihi",
+      "iconURL": "none",
+      "size": 197
     }
   ]
 }
