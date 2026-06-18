@@ -2,7 +2,7 @@
   "name": "Long's IpA++",
   "subtitle": "Kho tải ứng dụng IPA cho SideStore",
   "description": "Repo cập nhật các ứng dụng iOS ++ mới nhất.",
-  "iconURL": "https://<username>.github.io/<tên-repo>/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/longkool/Long-s-IpA-/9efa7211f408993cf6302af6a6f9bd5b5cb916a3/wolf-icon.png",
   "website": "https://<username>.github.io/<tên-repo>/",
   "apps": [
     {
