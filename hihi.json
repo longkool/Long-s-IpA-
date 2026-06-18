@@ -2,7 +2,7 @@
   "name": "Long's IpA++",
   "subtitle": "Kho tải ứng dụng IPA cho SideStore",
   "description": "Repo cập nhật các ứng dụng iOS ++ mới nhất.",
-  "iconURL": "https://longkool.github.io/Long-s-IpA-/wolf-icon.png",
+  "iconURL": "https://longkool.github.io/Long-s-IpA-/logo/wolf-icon.png",
   "website": "https://longkool.github.io/Long-s-IpA-/",
   "apps": [
     {
@@ -14,7 +14,7 @@
       "versionDescription": "mở khóa tính năng Premium.",
       "downloadURL": "https://files.catbox.moe/9elqcs.ipa",
       "localizedDescription": "hihi",
-      "iconURL": "none",
+      "iconURL": "https://longkool.github.io/Long-s-IpA-/logo/Youtube.png",
       "size": 197000000
     }
   ]
