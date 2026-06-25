@@ -6,16 +6,16 @@
   "website": "https://longkool.github.io/Long-s-IpA-/",
   "apps": [
     {
-      "name": "Youtube+",
-      "bundleIdentifier": "com.google.ios.youtube+",
+      "name": "Youtube++",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "version": "21.24.3",
-      "versionDate": "2026-03-30",
-      "versionDescription": "mở khóa tính năng Premium.",
+      "versionDate": "2026-06-20",
+      "versionDescription": "Add Vanced U+++.",
       "downloadURL": "https://files.catbox.moe/8cm54b.ipa",
       "localizedDescription": "hihi",
       "iconURL": "https://longkool.github.io/Long-s-IpA-/logo/Youtube.png",
-      "size": 197000000
+      "size": 157000000
     }
   ]
 }
